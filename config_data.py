@@ -4,9 +4,9 @@ import os
 import dotenv
 dotenv.load_dotenv()
 
-md5_file_path = "D:/PythonProject1/src/md5.txt"
+md5_file_path = "./md5.txt"
 collection_name = "rag"
-persist_directory = "D:/PythonProject1/src/chroma_db"
+persist_directory = "./chroma_db"
 chunk_size = 500
 chunk_overlap = 50
 separators = ["\n\n", "\n", " ", "",".",",","?","。","，","？"]
