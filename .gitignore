@@ -1,0 +1,7 @@
+__pycache__/
+char_messages_history/
+chroma_db/
+user001/
+user001.json
+user002.json
+md5.txt
