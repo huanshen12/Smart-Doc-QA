@@ -37,8 +37,8 @@
 ├── .env                         # 环境变量配置文件
 ├── requirements.txt             # 项目依赖
 └── README.md                    # 项目文档
-```
-##🚀 快速开始
+``` 
+## 🚀 快速开始
 1. 克隆项目
 ```Bash
 git clone [https://github.com/YourUsername/Enterprise-RAG-Knowledge-Base.git](https://github.com/YourUsername/Enterprise-RAG-Knowledge-Base.git)
