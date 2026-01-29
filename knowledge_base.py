@@ -71,7 +71,7 @@ class KnowledgeBaseService(object):
         metadata = {
             "source":file_name,
             "create_time":datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "operator":"李泽森",
+            "operator":"小李",
         }
         print("这里成功了")
         
